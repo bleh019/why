@@ -1,2 +1,4 @@
 # why
-why
+Manjari Rathore
+i want to join whitehats club is because i'm interested in learning about cyber sec in general as a cybersec fresher , im interested in learning and im currently trying to increase my knowledge about the coding languages i know such as python, im cyrrently trying to learn java and then C or C++ for instance. 
+the most recent web attack i know of is the NCERT site attack which took place this may or march, it happened because a cybersecurity student in second year told the NCERT people that their site could easily be hacked 3 months prior to board exams but even after his warning the officials did nothing about it and he hacked the site, thankfully he didnt chage any marks but what if he did? leading to that alot of other government sites started getting hacked by cybersecurity students in general like the neet portal where a student went and saw the marks of some people etc etc
